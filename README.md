@@ -14,8 +14,8 @@
 - [Version 1](https://ethanfearon.github.io/baskerville-two/abriefhistoryoftypev1.HTML)
 *October 28th 2019*
 
-- [Version 2](https://ethanfearon.github.io/baskerville-two/abriefhistoryoftypeV2.HTML)
+- [Version 2](https://ethanfearon.github.io/baskerville-two/abriefhistoryoftypev2.HTML)
 *November 5th 2019*
 
-- [Version 3](https://ethanfearon.github.io/baskerville-two/abriefhistoryoftypeV3.HTML)
+- [Version 3](https://ethanfearon.github.io/baskerville-two/abriefhistoryoftypev3.HTML)
 *November 11th 2019*
