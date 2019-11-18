@@ -35,7 +35,10 @@ margin: 1em;}
 
 h3 {font-size: 1.414em;
 margin-bottom: 1.5em;
-font-style:italic;}
+font-style: normal;
+font-weight: normal;
+font-family: 'Open Sans', sans-serif;
+}
 
 
 p, header {1.35em}
@@ -53,15 +56,24 @@ font-size: 0.707em;
 color: #333;
 }
 
+/*-------LISTSTYLING-----*/
+li {
+  color: #B5B8FF;
+text-align: left;
+
+}
+
 /*-------STYLINGLINKS-----*/
 
-a {
-color: #696EFF;
+a
+{
+color: #B5B8FF;
 text-decoration: none;
+text-align: center;
 }
 
 a:hover{
-  color: #696EFF;
+  color: #B5B8FF;
   border-bottom: 1px dotted;
 }
 /*--------NAVIGATION------*/
@@ -84,18 +96,22 @@ letter-spacing: 2px;}
 
 nav ul li{
   display: inline;
-  margin: 20px;}
+  margin: 60px;}
 
 nav a:link {
-  color: #fafafa;}
+  color: #B5B8FF;}
 
 nav a:visited{
-  color: #696EFF;
+  color: #fafafa;
 
 }
 
 nav a:hover {
-border-bottom: none;}
+border-bottom: none;
+color: #B5B8FF;}
+
+
+
 /*-------FOOTER-----*/
 
 footer {text-align: center;
