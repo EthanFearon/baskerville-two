@@ -52,6 +52,50 @@ blockquote cite {
 font-size: 0.707em;
 color: #333;
 }
+
+/*-------STYLINGLINKS-----*/
+
+a {
+color: #696EFF;
+text-decoration: none;
+}
+
+a:hover{
+  color: #696EFF;
+  border-bottom: 1px dotted;
+}
+/*--------NAVIGATION------*/
+nav {
+position:fixed;
+top: 0;
+left: 0;
+margin: 0;
+width: 100%;
+background-color: #696EFF;
+padding: 1em 0;
+font-size: 0.75em;
+}
+
+
+nav ul{
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 2px;}
+
+nav ul li{
+  display: inline;
+  margin: 20px;}
+
+nav a:link {
+  color: #fafafa;}
+
+nav a:visited{
+  color: #696EFF;
+
+}
+
+nav a:hover {
+border-bottom: none;}
 /*-------FOOTER-----*/
 
 footer {text-align: center;
