@@ -5,13 +5,29 @@
   line-height: 1em;}
 
 
-body{
-width: 70%;
+body{ width: 80%;
 max-width: 650px;
 margin:auto;
 background: #fafafa;
-Colour: #333;
+color: #333;
 font-family: 'Libre Baskerville', serif;
+}
+
+article {display: flex;
+}
+
+.main {flex: 3;
+padding-right: 1em;}
+
+aside {flex:1;
+font-size: 0.75em;
+font-style: italic;
+border-left: 1px solid #333;
+padding-left: 1em;
+}
+
+section , aside , header , footer {
+
 }
 /*----------TYPOGRAPHY------*/
 
@@ -55,6 +71,7 @@ blockquote cite {
 font-size: 0.707em;
 color: #333;
 }
+
 
 /*-------LISTSTYLING-----*/
 li {
@@ -110,6 +127,54 @@ nav a:hover {
 border-bottom: none;
 color: #B5B8FF;}
 
+/*-------TABLE------*/
+
+
+table {
+  margin: auto;
+  display: table;
+  border: collapse;
+  border-spacing: 2px;
+  margin-bottom: 2em;
+  width: 100%;
+}
+
+
+caption {
+text-transform: uppercase;
+
+}
+
+th {
+  color: #fafafa;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #B5B8FF
+}
+
+th, td {
+  padding .6em
+}
+
+table {
+  background: #6A6DF6;
+  border: 1px solid #fafafa;
+}
+
+td {
+  color: #fafafa;
+}
+
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
+
+
 
 
 /*-------FOOTER-----*/
@@ -118,6 +183,4 @@ footer {text-align: center;
 text-alight: center;
 font-size: 0.707em;
 padding: 2em 0 4em 0
-
-
 }
