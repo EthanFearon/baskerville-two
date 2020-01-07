@@ -54,7 +54,7 @@ li {
 text-align: left;
 
 }
-
+img { align-items: center;}
 /*-------STYLINGLINKS-----*/
 
 a
@@ -104,7 +104,28 @@ color: #B5B8FF;}
 
 li {
   font-size: 0.707em;
-  
+
+}
+
+th {
+  color: #fafafa;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #B5B8FF
+}
+
+th, td {
+  padding .6em
+}
+
+table {
+  background: #6A6DF6;
+  border: 1px solid #fafafa;
+}
+
+td {
+  color: #fafafa;
 }
 
 /*---------FOOTER-------*/
