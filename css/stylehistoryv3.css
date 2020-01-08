@@ -1,6 +1,6 @@
 /*-----CSS RESET ------*/
-*{padding:0;
-margin:0;
+*{padding:px;
+margin:40px;
 font-size: 100%;
 line-height: 1em;}
 
@@ -16,12 +16,10 @@ font-family: 'Nunito', sans-serif;}
 html {
   scroll-behavior: smooth;
 }
-.center {
-  display: block;
-margin-left: auto;
-margin-right: auto;
-  width: 50%;
-  height: 50%;
+center {
+  display: ;
+padding: 650px;
+
 }
 /*--------TYPOGRAPHY-------*/
 p {
@@ -45,10 +43,10 @@ p.references {
 }
 
 h1 {
-  padding-bottom: 14px;
+  padding-bottom: 18px;
   border-bottom: 4px  solid #333;
 padding-top: 40px;
-  font-size: 40px;
+  font-size: 80px;
   font-family: 'Nunito', sans-serif;
 
 
@@ -141,13 +139,13 @@ a:hover{
 }
 /*--------NAVIGATION------*/
 nav {
-   position: fixed;
+   position: sticky;
    top: 0;
-   left:0;
-   margin:0;
+
+margin-right: 50px;
    width: 100%;
    background-color: #e06e73;
-   padding: 1em ;
+   padding: 0.5px;
    font-size: 0.75em;
    }
 
@@ -156,11 +154,11 @@ nav {
 nav ul{
 text-align: center;
 text-transform: uppercase;
-letter-spacing: 2px;}
+letter-spacing: 5px;}
 
 nav ul li{
-  display: inline;
-  margin: 60px;}
+  display: block;
+  margin: 0.5px;}
 
 nav a:link {
   color: #612F32;}
@@ -184,16 +182,22 @@ th {
   text-transform: uppercase;
   font-weight: normal;
   text-align: left;
-  background: #B5B8FF
+  background: #AD5559
+
 }
 
 th, td {
-  padding .6em
+  padding:2em;
+  border: 1em;
+  color: #fafafa;
+  font-size: 12px;
 }
 
 table {
-  background: #fafafa;
+  background: #612F32;
   border: 1px solid #fafafa;
+  padding: 30px;
+
 }
 
 td {
