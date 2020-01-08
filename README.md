@@ -12,10 +12,10 @@
 - [Version 4](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/baskerville4.html)
 *November 18th 2019*
 
--[Version 5](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/baskerville5.html]
+- [Version 5](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/baskerville5.html]
 *November 26th 2019*
 
--[Version 6](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/baskerville6.html]
+- [Version 6](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/baskerville6.html]
 *December 4th 2019*
 
 # The Brief History of Type
@@ -29,8 +29,8 @@
 - [Version 3](https://ethanfearon.github.io/baskerville-two/abriefhistoryoftypev3.HTML)
 *November 11th 2019*
 
--[Version 4](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/abriefhistoryoftypev4.HTML)
+- [Version 4](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/abriefhistoryoftypev4.HTML)
 *November 25th 2019*
 
--[Version 5](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/abriefhistoryoftypev5.HTML)
+- [Version 5](https://github.com/EthanFearon/baskerville-two/blob/gh-pages/abriefhistoryoftypev5.HTML)
 *November 2
